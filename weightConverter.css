@@ -1,0 +1,12 @@
+#container {
+    width: 550px;
+    height: 35opx;
+    margin-top: 60px;
+    margin-left: 300px;
+    padding: 20px 20px;
+    background-color: rgb(147, 76, 214);
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
